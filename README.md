@@ -1,2 +1,2 @@
-# fake_news
-fake_news prediction
+# fake_news prediction
+Machine Learning Project
